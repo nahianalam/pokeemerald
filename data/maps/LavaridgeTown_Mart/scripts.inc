@@ -22,6 +22,12 @@ LavaridgeTown_Mart_Pokemart:
 	.2byte ITEM_REVIVE
 	.2byte ITEM_SUPER_REPEL
 	.2byte ITEM_X_SPEED
+	.2byte ITEM_SUN_STONE
+	.2byte ITEM_MOON_STONE
+	.2byte ITEM_FIRE_STONE
+	.2byte ITEM_THUNDER_STONE
+	.2byte ITEM_WATER_STONE
+	.2byte ITEM_LEAF_STONE
 	pokemartlistend
 
 LavaridgeTown_Mart_EventScript_ExpertM::
